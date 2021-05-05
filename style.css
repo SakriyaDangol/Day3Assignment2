@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+}
+
+.page-wrapper{
+    background-color: black;
+    width: 1366px;
+    height: 657px;
+}
+
+.top-wrapper{
+    background-color: blue;
+    width: 120px;
+    height: 120px;
+    margin-left: 1246px;
+}
+
+.second-wrapper{
+    background-color: red;
+    width: 120px;
+    height: 120px;
+    margin-left: 1126px;
+}
+
+.third-wrapper{
+    background-color: green;
+    width: 120px;
+    height: 120px;
+    margin-left: 1006px;
+}
+
+.fourth-wrapper{
+    background-color: yellow;
+    width: 120px;
+    height: 120px;
+    margin-left: 886px;
+}
